@@ -1,6 +1,11 @@
 # shop
 
 A new Flutter project.
+# Output
+
+
+https://github.com/prakhar-p/e-commerce/assets/74608125/82b8e8be-dcfe-4f92-b1cb-c66ec30ce233
+
 
 ## Getting Started
 
